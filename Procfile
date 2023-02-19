@@ -1,1 +1,1 @@
-web: gunicorn kasmaz-i-blog.wsgi
+web: gunicorn codestar.wsgi
